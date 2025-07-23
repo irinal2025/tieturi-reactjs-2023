@@ -1,0 +1,29 @@
+button.my-input-button {
+    background-color: lightgrey;
+    border-color: black;
+    color: black;
+    font-size: 20px;
+    line-height: 40px;
+    border-radius: 20px;
+    padding: 0 10px;
+    margin-left: 5px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+button.my-input-button:hover {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
+
+input {
+    border-color: lightgrey;
+    font-size: 18px;
+    line-height: 40px;
+    letter-spacing: 1px;
+}
+
+input:focus {
+    border: 3px solid #555;
+}
+
