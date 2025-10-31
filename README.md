@@ -74,9 +74,14 @@ Then open http://localhost:3000 in your browser to view the app.
 
 This project is for learning purposes and does not include an official license.
 
-
 ---
 
+## 🤝 Contributing
+
+This project was created for learning purposes as part of a ReactJS programming course.  
+External contributions are not accepted. However, feel free to explore the code for educational use or inspiration.
+
+---
 
 ## ⚙️ Additional Notes
 
